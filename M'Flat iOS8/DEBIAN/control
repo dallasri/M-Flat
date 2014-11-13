@@ -1,0 +1,7 @@
+Package: com.dallasri.mflaticonpack
+Name: M'Flat Icon Pack Beta
+Version: 3.1
+Depends: winterboard, com.codethemed.iconbundles, com.bensge.customclockicon
+Architecture: iphoneos-arm
+Description: Icon pack for the popular theme M'Flat.
+Author: Dallas Rich <dallas.rich@me.com>
